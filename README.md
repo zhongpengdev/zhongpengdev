@@ -1,7 +1,5 @@
 <!-- Profile README for https://github.com/zhongpengdev -->
 
-<h1 align="center">Lawrence</h1>
-
 <p align="center">Backend Development · Keep It Simple</p>
 
 <p align="center">
@@ -12,8 +10,6 @@
 ## About
 
 Focused on backend development with Python and FastAPI, including asynchronous programming.
-
-Systematically studied **Computer Networks, Computer Organization, Operating Systems, and Data Structures**.
 
 I like simple things: start with the fundamentals, then go deeper. **KISS — Keep It Simple, Stupid.**
 
