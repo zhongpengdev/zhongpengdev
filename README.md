@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://2jone.top"><img src="https://img.shields.io/badge/Blog-2jone.top-0F766E?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
+  <a href="https://2jone.top"><img src="https://img.shields.io/badge/Blog-2jone.top-0F766E?style=flat-square&logoColor=white" alt="Blog" /></a>
   <a href="https://github.com/zhongpengdev"><img src="https://komarev.com/ghpvc/?username=zhongpengdev&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" /></a>
 </p>
 
